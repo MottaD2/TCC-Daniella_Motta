@@ -135,3 +135,6 @@ Copie o código de autorização gerado e retorne para o ambiente do Google Cola
 Agora cole o código no campo indicado e aperte enter. Feito isso, a API será autorizada.
 
 ![Passo 18](https://github.com/MottaD2/TCC-Daniella_Motta/blob/640b6df5f9138f653ecdde503c34f7884bcbc874/images/18.png)
+
+# Dúvidas, sugestões e problemas:  
+Basta me contatar via email: mottadaniella@id.uff.br
