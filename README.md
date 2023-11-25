@@ -4,7 +4,7 @@ Para utilizar o projeto completamente funcional é necessário acessar este [lin
 **Modo de funcionamento:**  
 
 - Ao acessar o drive, você pode criar um atalho da pasta ou baixá-la e depois adicionar ao seu drive. *Recomendações: Caso você não queira fazer alterações no código e apenas rodá-lo, salve o atalho dentro da pasta do seu drive que se chama "Meu Drive"*
-- Após adicionar a pasta ao Google Drive, basta abrir o [Projeto]() e rodar o código seguindo as orientações.
+- Após adicionar a pasta ao Google Drive, basta abrir o [Projeto](https://colab.research.google.com/drive/1pEULrTHtwCxTVFyMLCdzV8f46pqELLlE?usp=sharing) e rodar o código seguindo as orientações.
 
 # Recursos utilizados no projeto:
 Recursos utilizados no projeto que não foram desenvolvidos pela autora.  
