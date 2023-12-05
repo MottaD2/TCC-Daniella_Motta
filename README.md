@@ -1,5 +1,5 @@
 # Informações sobre o Projeto
-Para utilizar o projeto completamente funcional é necessário acessar este [link](https://drive.google.com/drive/folders/1k9EGD740iwaYUZlXihqT_NE9MO19i1P2?usp=sharing), que o direcionará para o google drive, onde contém todos arquivos do projeto, também disponibilizados no repositório.  
+Para utilizar o projeto completamente funcional é necessário acessar este [link](https://drive.google.com/drive/folders/1k9EGD740iwaYUZlXihqT_NE9MO19i1P2?usp=sharing) que o direcionará para o google drive onde contém todos arquivos do projeto também disponibilizados no repositório.  
 
 **Modo de funcionamento:**  
 
@@ -29,25 +29,25 @@ Para criar uma conta no GEE, basta acessar este [link](https://code.earthengine.
 
 **Passo 1:**  
 
-Ao acessar o site do google Earth Engine será necessário realizar o login em uma das suas contas do google, após o login você será direcionado para esta página e clicar em “Register a Noncommercial or Commercial Cloud Project” 
+Ao acessar o site do google Earth Engine será necessário realizar o login em uma das suas contas do google. Após o login você será direcionado para esta página, clique em “Register a Noncommercial or Commercial Cloud Project” 
 
 ![Passo 1](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/1.png)
 
 **Passo 2:**  
 
-Nesta etapa você seleciona como gostaria de utilizar o Earth Engine. Ao selecionar “Unpaid usage”, em Project type será exibida uma lista de tipos de projetos e você seleciona a que lhe interessar, após a escolha clique em “Next”.
+Nesta etapa você selecionará como gostaria de utilizar o Earth Engine. Ao selecionar “Unpaid usage”, em Project type será exibida uma lista de tipos de projetos, você escolha a que lhe interessar, após a escolha clique em “Next”.
 
 ![Passo 2](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/2.png)
 
 **Passo 3:**  
 
-Como é o seu primeiro acesso, ao chegar nesta etapa será preciso criar um novo projeto. Então você seleciona “Create a new Google Cloud Project”
+Como é o seu primeiro acesso, ao chegar nesta etapa será preciso criar um novo projeto. Marque “Create a new Google Cloud Project”
 
 ![Passo 3](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/3.png)
 
 **Passo 4:**  
 
-Para criar um novo projeto, você precisa definir ID para o projeto em Project-ID. Importante: Não utilize caixa alta para definir o Project- ID.  Feito isto, clique em “Continue do Summary”
+Para criar um novo projeto, você precisa definir uma ID para o projeto em Project-ID. Importante: Não utilize caixa alta para definir a Project- ID.  Feito isto, clique em “Continue do Summary”
 
 ![Passo 4](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/4.png)
 
@@ -59,32 +59,32 @@ Antes de continuar a criação do projeto, é necessário aceitar os termos de s
 
 **Passo 6:**  
 
-Ao abrir os termos de serviço você concorda com os termos e clique em “Concordar e continuar”
+Ao abrir os termos de serviço, concorde com os termos e clique em “Concordar e continuar”
 
 ![Passo 6](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/6.png)
 
 **Passo 7:**  
 
-Novamente você será direcionado para a página de criação de projeto, após ter aceitado os termos você clica novamente “Continue to Summary” 
+Novamente você será direcionado para a página de criação de projeto. Após ter aceitado os termos, novamente clique em “Continue to Summary” 
 
 ![Passo 7](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/7.png)
 
 **Passo 8:**  
 
-Nesta página aparece as informações do projeto que está sendo criado, basta clicar em “Confirm”
+Nesta página aparecem as informações do projeto que está sendo criado, basta clicar em “Confirm” para prosseguir
 
 ![Passo 8](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/8.png)
 
 
 **Passo 9:**  
 
-Quando confirmar, você será direcionado para o Code Editor do Google Earth Engine. Se isto acontecer, basta fechar o Code Editor e retornar para o Colab.
+Quando confirmar, você será direcionado para o Code Editor do Google Earth Engine. Se isto acontecer, basta fechar o Code Editor e retornar para o Colab
 
 ![Passo 9](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/9.png)
 
 **Passo 10:**  
 
-Ao retornar para o google colab e rodar a célula de autorização da API, você clica no link disponível para gerar o seu token.
+Ao retornar para o google colab e rodar a célula de autorização da API, clique no link disponível para gerar o seu token
 
 ![Passo 10](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/10.png)
 
@@ -108,7 +108,7 @@ Caso queira selecionar o seu projeto criado anteriormente, basta clicar em “Se
 
 **Passo 14:**  
 
-Realizada as etapas de escolher o projeto, a API irá solicitar novamente que selecione a conta do google. (Utilize a mesma na qual você criou conta no Google Earth Engine)
+Realizadas as etapas de escolher o projeto, a API solicitará novamente que logue a conta do google. (Utilize a mesma na qual você criou conta no Google Earth Engine)
 
 ![Passo 14](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/14.png)
 
@@ -120,7 +120,7 @@ Caso apareça esta janela, basta clicar em “Continuar”
 
 **Passo 16:**  
 
-Após continuar você clica em “Selecionar tudo” e depois “Continuar”
+Após continuar, clique em “Selecionar tudo” e depois “Continuar”
 
 ![Passo 16](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/16.png)
 
